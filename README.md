@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Filip Ohlsson and I'm currently studying Computer Game Programming att Luleå Teknisiska Universitet in Sweden
+My name is Filip Ohlsson and I'm currently studying Computer Game Programming att Luleå University of Technology in Sweden
 
 <!--
 **F-Ohlsson/F-Ohlsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
